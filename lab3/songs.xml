@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<music>
+
+<song genre="rocknroll" album="1134" artist="249" id="11992"><name>The Sound of Silence</name><nr>1</nr></song>
+<song genre="rocknroll" album="4329" artist="932" id="34311"><name>Material Girl</name><nr>2</nr></song>
+<song genre="hardrock" album="5293" artist="1167" id="54312"><name>Paradise City</name><nr>1</nr></song>
+<song genre="classic" album="7002" artist="156" id="78340"><name>La Primavera</name><nr>1</nr></song>
+
+<artist id="249" isband="yes">Simon and Garfunkel</artist>
+<artist id="932" isband="no">Madonna</artist>
+<artist id="1167" isband="yes">Guns N'Roses</artist>
+<artist id="156" isband="no">Antonio Vivaldi</artist>
+
+<album issued="1964" id="1134" label="Columbia Records">Wednesday Morning, 3 AM</album>
+<album issued="1984" id="4392" label="Sire Records">Like A Virgin</album>
+<album issued="1988" id="5293" label="Geffen Records">Appetite for Destruction</album>
+<album issued="2004" id="7002" label="Naxos Records" performers="Wiener Philharmoniker">Le Quattro Stagioni</album>
+
+</music>
